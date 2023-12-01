@@ -5,7 +5,7 @@
 
 - 🌱 Estoy Aprendiendo **Java, TypeScrip, TailwindCSS**
 
-- 👯 Busco colaborar en **Proyectos front-end y back-endy**
+- 👯 Busco colaborar en **Proyectos front-end y back-end**
 
 - 📫 Si quieres contactarme : **michiqueli@gmail.com**
 
