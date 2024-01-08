@@ -3,10 +3,10 @@
 
 - 🔭 Actualmente estoy trabajando en:
 
-<a href="https://olimpus-shop.vercel.app/" target="_blank">Olimpus Shop</a>
-<h1>Una Pagina de venta de Productos deportivos en desarrollo con un exelente grupo de gente, donde me desempeño como back-end y PM para el PF de Henry</h1>
-<a href="https://c15-58-readlygoods.vercel.app/" target="_blank">Readly Goods<a/>
-<h1>Un proyecto grupal con gente muy capaz donde desarrollamos un e-commerce de venta de libros como proyecto de simulación laboral en No-Country</h1>
+<h2 align="center"><a href="https://olimpus-shop.vercel.app/" target="_blank">Olimpus Shop</a></h2>
+Una Pagina de venta de Productos deportivos en desarrollo con un exelente grupo de gente, donde me desempeño como back-end y PM para el PF de Henry
+<h2 align="center"><a href="https://c15-58-readlygoods.vercel.app/" target="_blank">Readly Goods<a/></h2>
+Un proyecto grupal con gente muy capaz donde desarrollamos un e-commerce de venta de libros como proyecto de simulación laboral en No-Country
 
 - 🌱 Estoy Aprendiendo **TypeScrip, TailwindCSS, Next.js, Node.js, **
 
