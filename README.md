@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://michiqueli.dev"><img src="https://img.shields.io/badge/Portfolio-michiqueli.dev-C8532A?style=for-the-badge" /></a>
   <a href="mailto:hola@michiqueli.dev"><img src="https://img.shields.io/badge/Email-hola@michiqueli.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-m-22585018b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/michiqueli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
